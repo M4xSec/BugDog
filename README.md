@@ -11,11 +11,10 @@
 # ScreenShots👨🏼‍💻
 ![BugDog](https://user-images.githubusercontent.com/57313495/121187619-79ef4080-c825-11eb-81d2-a3406cea3cf8.png)
 
-# THIS IS A PRIVATE TOOL TO PREVENT MISUSE, CONTACT US FOR PASSWORD AT-
+# PRIV8 TOOL!! TO PREVENT MISUSE ;( CONTACT US FOR PASSWORD-
 <h1>
 <a href="https://corruptsec.net/"><img src="https://user-images.githubusercontent.com/57313495/121188292-347f4300-c826-11eb-97a9-9be7c29f32ca.png" alt="* corruptsec.net"></a>
 </h1>
-# OR EMAIL US-
 <h1>
 * predator0x300@gmail.com
 </h1>
