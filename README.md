@@ -1,9 +1,10 @@
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
 <h1 align="center">
   <a href="https://github.com/M4xSec"><img src="https://user-images.githubusercontent.com/57313495/121189007-e74fa100-c826-11eb-9806-3490d447cf53.png" alt="BugDog"></a>
+  <h4 align="center">BUG HUNTING BEAST xXx</h4>
   <br>
 </h1>
-<h4 align="center">BUG HUNTING BEAST xXx</h4>
+
 
 # ScreenShots👨🏼‍💻
 ![BugDog](https://user-images.githubusercontent.com/57313495/121187619-79ef4080-c825-11eb-81d2-a3406cea3cf8.png)
