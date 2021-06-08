@@ -10,6 +10,11 @@
 
 # ScreenShots👨🏼‍💻
 
+# THIS IS A PRIVATE TOOL TO PREVENT FROM MISUSE, CONTACT US AT-
+<a href="https://corruptsec.net/"><img src="https://ibb.co/rK9J8CK" alt="BugDog"></a>
+# OR EMAIL US-
+* predator0x300@gmail.com
+
 
 # INSTALLATION [ KALI ]🔥🔥🔥
 =========
