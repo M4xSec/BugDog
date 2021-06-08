@@ -13,7 +13,7 @@
 
 # PRIV8 TOOL!! TO PREVENT MISUSE ;( CONTACT US FOR PASSWORD-
 <h1>
-<a href="https://corruptsec.net/"><img src="https://user-images.githubusercontent.com/57313495/121188292-347f4300-c826-11eb-97a9-9be7c29f32ca.png" alt="* corruptsec.net"></a>
+<a href="https://corruptsec.net/"><img src="https://user-images.githubusercontent.com/57313495/121188698-98097080-c826-11eb-972c-119c82f8f073.png" alt="* corruptsec.net"></a>
 </h1>
 <h1>
 * predator0x300@gmail.com
