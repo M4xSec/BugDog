@@ -2,7 +2,7 @@
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
 <h1 align="center">
   <br>
-  <a href="https://github.com/M4xSec"><img src="https://ibb.co/YfXKFcY" alt="BugDog"></a>
+  <a href="https://github.com/M4xSec"><img src="https://user-images.githubusercontent.com/57313495/121189007-e74fa100-c826-11eb-9806-3490d447cf53.png" alt="BugDog"></a>
   <br>
 
 </h1>
