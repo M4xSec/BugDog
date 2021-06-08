@@ -9,9 +9,10 @@
 <h4 align="center">BUG HUNTING BEAST xXx</h4>
 
 # ScreenShots👨🏼‍💻
+![BugDog](https://user-images.githubusercontent.com/57313495/121187619-79ef4080-c825-11eb-81d2-a3406cea3cf8.png)
 
 # THIS IS A PRIVATE TOOL TO PREVENT FROM MISUSE, CONTACT US AT-
-<a href="https://corruptsec.net/"><img src="https://ibb.co/rK9J8CK" alt="BugDog"></a>
+<a href="https://corruptsec.net/"><img src="https://ibb.co/rK9J8CK" alt="https://corruptsec.com"></a>
 # OR EMAIL US-
 * predator0x300@gmail.com
 
