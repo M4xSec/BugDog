@@ -22,7 +22,7 @@
 <h4 align="center">BUG HUNTING BEAST xXx</h4>
 
 # ScreenShots👨🏼‍💻
-
+![Screenshot_20210604_104323](https://user-images.githubusercontent.com/57313495/121186067-ee28e480-c823-11eb-940d-f159c5f7d03f.png)
 
 
 # INSTALLATION [ KALI ]🔥🔥🔥
